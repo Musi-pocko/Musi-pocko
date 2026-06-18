@@ -2,13 +2,15 @@
 
 ### Information Systems and Technologies Student
 
-First-year student at TUIT interested in Information Technology and Frontend Development.
+Second-year student at TUIT interested in Information Technology and Frontend Development.
 
 ## 💻 Skills
 
-* HTML
-* CSS
-* Figma
+- HTML5
+- CSS3
+- Basic JavaScript (learning)
+- Figma
+- Git & GitHub (learning)
 
 ## 🌱 Currently Learning
 
