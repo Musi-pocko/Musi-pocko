@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Muslima 👋
 
-<!--
-**Musi-pocko/Musi-pocko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Systems and Technologies Student
 
-Here are some ideas to get you started:
+First-year student at TUIT interested in Information Technology and Frontend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+* HTML
+* CSS
+* Figma
+
+## 🌱 Currently Learning
+
+* JavaScript
+* Git & GitHub
+* Frontend Development
+* Responsive Web Design
+* Cybersecurity Fundamentals
+
+
+## 🎯 Goals
+
+* Build real-world projects
+* Improve technical skills
+* Gain practical experience through internships
+
+## 🌍 Languages
+
+* Uzbek — Fluent
+* Russian — Fluent
+* English — B2
+
+## 📫 Contact Me
+
+* LinkedIn: www.linkedin.com/in/muslima-shamansurova-788934417
+
+
