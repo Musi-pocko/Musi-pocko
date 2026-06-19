@@ -33,6 +33,14 @@ Second-year student at TUIT interested in Information Technology and Frontend De
 * Russian — Fluent
 * English — B2
 
+## 🚀 Projects
+
+### Coffee Shop Landing Page
+
+A responsive landing page built with HTML & CSS.
+
+🔗 Live Demo: https://musi-pocko.github.io/Velvet-Beans/
+
 ## 📫 Contact Me
 
 * LinkedIn: www.linkedin.com/in/muslima-shamansurova-788934417
