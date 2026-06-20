@@ -41,6 +41,12 @@ A responsive landing page built with HTML & CSS.
 
 🔗 Live Demo: https://musi-pocko.github.io/Velvet-Beans/
 
+### Trafalgar
+
+A healthcare landing page built with HTML and CSS based on a Figma design. The project includes Flexbox and Grid layouts, hover effects, reusable components, and a clean code structure.
+
+🔗 Live Demo: https://musi-pocko.github.io/Trafalgar/
+
 ## 📫 Contact Me
 
 * LinkedIn: www.linkedin.com/in/muslima-shamansurova-788934417
